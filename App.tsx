@@ -50,7 +50,7 @@ const App: React.FC = () => {
       <footer className="border-t border-slate-200 bg-white py-6 mt-10">
         <div className="max-w-6xl mx-auto px-4 text-center">
           <p className="text-slate-500 text-base sm:text-lg font-medium">
-           Phát triển bởi nhóm học sinh THPT Đào Duy Từ 
+           Hóa học phổ thông
           </p>
         </div>
       </footer>
